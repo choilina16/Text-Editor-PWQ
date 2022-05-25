@@ -8,7 +8,7 @@
 4. [Visuals](#visuals)
 5. [Github Repository](#github-repository)
 6. [Acknowledgments](#acknowledgments)
-7. 
+
 ## Objective
 
 Your task is to build a text editor that runs in the browser.
@@ -74,4 +74,5 @@ THEN I should have proper build scripts for a webpack application
 Showing appreciation to our study group! 
 * Anthony Chang
 * James Edwards
+* Noah Brunner
 * Seamona Stewart
