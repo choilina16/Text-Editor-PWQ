@@ -1,7 +1,9 @@
 # Text-Editor-PWQ
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
+
 1. [Objective](#objective)
 2. [Acceptance Criteria](#acceptance-criteria)
 3. [Installation Instructions](#installation-instructions)
@@ -61,18 +63,22 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Installation Instructions
+
 `npm i` to install
-`node index.js` to start 
+`npm start` to start
 
 ## Visuals
 
-## Github Repository 
+## Github Repository
+
 [Github Repository](https://github.com/choilina16/Text-Editor-PWQ)
 [Heroku Developed Link](https://gentle-fortress-70039.herokuapp.com/)
 
-## Acknowledgments 
-Showing appreciation to our study group! 
-* Anthony Chang
-* James Edwards
-* Noah Brunner
-* Seamona Stewart
+## Acknowledgments
+
+Showing appreciation to our study group!
+
+- Anthony Chang
+- James Edwards
+- Noah Brunner
+- Seamona Stewart
