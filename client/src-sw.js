@@ -47,4 +47,14 @@ registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 //   })
 // );
 
-registerRoute();
+// went on a zoom call with BCS - Mananjoshi because I was having an unknown error!
+// he told me to:
+// comment out this function call
+// restart server, but don't refresh the page
+// go to application tab browser
+// go to service workers on the right
+// click unregister
+// and then refresh the page
+// and it works perfectly now!
+
+// registerRoute();
