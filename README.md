@@ -8,7 +8,7 @@
 4. [Visuals](#visuals)
 5. [Github Repository](#github-repository)
 6. [Acknowledgments](#acknowledgments)
-7. 
+
 ## Objective
 
 Your task is to build a text editor that runs in the browser.
