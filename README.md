@@ -68,6 +68,7 @@ THEN I should have proper build scripts for a webpack application
 `npm start` to start
 
 ## Visuals
+![Screen Shot 2022-05-24 at 11 51 22 PM (3)](https://user-images.githubusercontent.com/100983245/170176007-600651ea-7c33-4bfc-96c0-7e1ca42dcaca.png)
 
 ## Github Repository
 
