@@ -74,4 +74,5 @@ THEN I should have proper build scripts for a webpack application
 Showing appreciation to our study group! 
 * Anthony Chang
 * James Edwards
+* Noah Brunner
 * Seamona Stewart
